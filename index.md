@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# s@mdowd.me
 
-You can use the [editor on GitHub](https://github.com/samdowd/samdowd.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+`This is a placeholder personal site. One day I'll get bored and make a real one.` Until then:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Projects
 
-### Markdown
+### Pi-llups
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Working title. This is a pullup detector, tracker, and analyzer I built with a Raspberry Pi, some hardware, a Django server, and a few Python scripts.
 
-```markdown
-Syntax highlighted code block
+### Do It Again!
 
-# Header 1
-## Header 2
-### Header 3
+This is a 2 star video game I made using Unity and c#. It's not particularly fun, but it is a video game. Has a boss battle and everything, if you can figure out how to make it that far. Shoutout to Wesley Schmidt for the art.
 
-- Bulleted
-- List
+### Big Jerk
 
-1. Numbered
-2. List
+A random insult generator built in NodeJS to get a free Amazon Echo Dot. Say "enable Big Jerk" to your Alexa-enabled device to have some PG13 "fun"!
 
-**Bold** and _Italic_ and `Code` text
+### Drumm Farm
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/samdowd/samdowd.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+A Django website built and maintained for a charity in Missouri that helps foster families.
