@@ -1,7 +1,3 @@
-# s@mdowd.me
-
-`This is a placeholder personal site. One day I'll get bored and make a real one.` Until then:
-
 ## Projects
 
 ### Pi-llups
